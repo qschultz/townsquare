@@ -4,7 +4,7 @@
   "description": "Blood on the Clocktower Town Square",
   "engines": {
     "node": "18.x"
-  }
+  },
   "author": "Steffen Baumgart",
   "scripts": {
     "serve": "vue-cli-service serve",
